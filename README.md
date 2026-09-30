@@ -112,9 +112,3 @@ The linguistic characterization showed that LoT expressions were generally longe
 
 The study is observational and does not establish that any individual linguistic characteristic directly causes changes in NER performance.
 
-## Repository Structure
-
-The repository will contain materials such as:
-
-```text
-
