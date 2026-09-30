@@ -117,16 +117,4 @@ The study is observational and does not establish that any individual linguistic
 The repository will contain materials such as:
 
 ```text
-.
-├── README.md
-├── requirements.txt
-├── data/
-│   ├── processed/
-│   └── README.md
-├── notebooks/
-│   ├── entity_characterization/
-│   ├── ner_training/
-│   └── statistical_analysis/
-├── src/
-├── results/
-└── supplementary/
+
